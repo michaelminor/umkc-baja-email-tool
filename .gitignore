@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Sensitive data
+data/sent_emails_history.txt
+config/settings.json
+
+# CSV files (may contain personal info)
+*.csv
+
+# User files
+*.txt
+*.docx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+!requirements*.txt
+!scraper_requirements.txt

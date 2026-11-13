@@ -1,0 +1,2 @@
+# Requirements for Email Scraper Agent
+playwright==1.49.0
